@@ -46,6 +46,8 @@ h1,h2{
     display:flex;
     justify-content:space-between;
     text-align:center;
+    background-color:whitesmoke;
+    height: 400px;
 
 }
 .project-one{
